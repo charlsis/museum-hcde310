@@ -11,7 +11,7 @@ import html
 INPUT_FILE = "group_a.json"       # made by get_data.py (or the Cleaner's cleaned file)
 EXHIBIT_JSON = "exhibit.json"     # the 8 chosen artworks + labels
 OUTPUT_HTML = "exhibit.html"      # the web page
-EXHIBIT_SIZE = 8
+EXHIBIT_SIZE = 12
 EXHIBIT_TITLE = "Food in Art"
 
 # If your group wants specific artworks, put their ids here (from group_a.json).
