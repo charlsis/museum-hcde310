@@ -1,10 +1,4 @@
 Data Getter
-
-
-Cleaner
-
-
-Page Maker
 # get_data.py
 # Data Getter for Museum Consortium, Group A
 # Searches the Art Institute of Chicago API for the class theme ("food"),
@@ -145,6 +139,9 @@ If you’re using CHOSEN_IDS, list 12 ids. Otherwise you’ll only get as many a
 If any artwork has a label in CUSTOM_LABELS, check the 4 new labels too. The terminal prints all 12, so you can compare them with the real artwork info.
 Make exhibit
 PY
+
+
+
 
 
 Explainer
