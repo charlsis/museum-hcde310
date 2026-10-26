@@ -32,7 +32,11 @@ def get_page(page):
     url = build_url(page)
     print("Getting page", page, "->", url)
     # The museum asks callers to identify themselves with a user-agent header
-    request = urllib.request.Request(url, headers={"AIC-User-Agent": "HCDE310-GroupA (student project)"})
+    headers = {
+        "User-Agent": "HCDE310-GroupA/1.0 (student project)",
+        "AIC-User-Agent": "HCDE310-GroupA (your-uw-email@uw.edu)",
+    }
+    request = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(request) as response:
         text = response.read().decode("utf-8")
     return json.loads(text)
