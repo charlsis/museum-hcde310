@@ -70,5 +70,41 @@
     "medium": "Bronze",
     "image_url": "https://www.artic.edu/iiif/2/982ef7d9-36e7-a630-ed05-81d67537b2f9/full/843,/0/default.jpg",
     "label": "Food container was made by an unknown artist (Western Zhou dynasty ( 1046–771 BC ), 2nd half of 11th century BC) using bronze."
+  },
+  {
+    "id": 144770,
+    "title": "Pear (C), New York",
+    "artist": "Irving Penn",
+    "date": "1993, printed June/July 1994",
+    "medium": "Platinum-palladium print",
+    "image_url": "https://www.artic.edu/iiif/2/c73e1235-ec4e-b54e-7e84-933dcbccab00/full/843,/0/default.jpg",
+    "label": "Pear (C), New York was made by Irving Penn (1993, printed June/July 1994) using platinum-palladium print."
+  },
+  {
+    "id": 156596,
+    "title": "Fruit Piece",
+    "artist": "Hannah Brown Skeele",
+    "date": "1860",
+    "medium": "Oil on canvas",
+    "image_url": "https://www.artic.edu/iiif/2/998674f9-207f-6b56-8ece-79a6a5039a2a/full/843,/0/default.jpg",
+    "label": "Fruit Piece was made by Hannah Brown Skeele (1860) using oil on canvas."
+  },
+  {
+    "id": 55833,
+    "title": "Covered Food Container",
+    "artist": "Unknown artist",
+    "date": "Western Zhou dynasty ( 1046–771 BC ), mid–9th century B.C.",
+    "medium": "Bronze",
+    "image_url": "https://www.artic.edu/iiif/2/8b4cd593-6570-15ce-0c76-23c0504b89cb/full/843,/0/default.jpg",
+    "label": "Covered Food Container was made by an unknown artist (Western Zhou dynasty ( 1046–771 BC ), mid–9th century B.C.) using bronze."
+  },
+  {
+    "id": 18709,
+    "title": "The Frugal Meal, from The Saltimbanques",
+    "artist": "Pablo Picasso",
+    "date": "September 1904",
+    "medium": "Etching on zinc in blue-green on ivory laid paper (discolored to cream)",
+    "image_url": "https://www.artic.edu/iiif/2/bf1f0174-0711-c3f8-f188-8192022c3257/full/843,/0/default.jpg",
+    "label": "The Frugal Meal, from The Saltimbanques was made by Pablo Picasso (September 1904) using etching on zinc in blue-green on ivory laid paper (discolored to cream)."
   }
 ]
